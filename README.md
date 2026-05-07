@@ -179,14 +179,3 @@ If using Java Swing/JavaFX:
 - Mobile-friendly JavaFX UI
 
 ---
-
-## 🧑‍💻 Learning Outcomes
-
-After building this project, you will learn:
-- Real-world OOP design structure
-- Financial system simulation logic
-- Transaction handling systems
-- Data persistence techniques
-- Portfolio management concepts
-
----
